@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AI-Tech-Mike!
 - 👀 I am deeply interested in crafting intricate backend systems aimed at streamlining processes.
-- 🪢 I’m using the following coding languages the most: PHP, JavaScript/jQuery, HTML & Python.
-- 🛅 I’m using the following frameworkds the most: Laravel, CodeIgniter, Bootstrap 5, Django & ReactJS.
+- 🪢 I’m using the following coding languages the most: PHP, React/TypeScript, HTML & Python.
+- 🛅 I’m using the following frameworkds the most: Laravel, TailwindCSS & React/Typescript.
 - 🌱 Currently, I'm dedicating a significant amount of my time to mastering AI technology, with the goal of making my systems faster, smarter, and more powerful.
 - 💞️ looking to collaborate on complex web applications, that involve combining AI technology with those applications to make them work even, smarter and more efficiently.
 - 📫 You can reach me on GitHub, or alternatively, you can email me at support@learncoding.nl.
